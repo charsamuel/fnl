@@ -2,8 +2,8 @@ import React from 'react'
 import RightArrow from '@/assets/icons/rightArrow'
 import Link from 'next/link'
 import Title from '@/components/ui/title'
-import InputFiled from '@/components/ui/inputFiled'
-import TextAreaFiled from '@/components/ui/textAreaFiled'
+import InputField from '@/components/ui/inputField'
+import TextAreaField from '@/components/ui/textAreaField'
 import ButtonFill from './buttons/buttonFill'
 import { servicesData } from '@/lib/fackData/servicesData'
 const ServiceSingleSidebar = () => {
@@ -28,15 +28,15 @@ const ServiceSingleSidebar = () => {
             </div>
             <div className='mt-17.5'>
                 <Title title_text={"Search"} />
-                <InputFiled placeholderc={"Type & Hit Enter"} type={'text'} />
+                <InputField placeholderc={"Type & Hit Enter"} type={'text'} />
             </div>
             <div className='mt-17.5'>
                 <form action="">
                     <Title title_text={"Schedule a Call"} />
-                    <InputFiled placeholderc={"Your Name"} type={'text'} className="mb-[15px]" />
-                    <InputFiled placeholderc={"Phone Number"} type={'number'} className="mb-[15px]" />
-                    <InputFiled placeholderc={"Phone Number"} type={'date'} className="mb-[15px]" />
-                    <TextAreaFiled placeholder={"Your massage"} className={"min-h-[187px]"} />
+                    <InputField placeholderc={"Your Name"} type={'text'} className="mb-[15px]" />
+                    <InputField placeholderc={"Phone Number"} type={'number'} className="mb-[15px]" />
+                    <InputField placeholderc={"Phone Number"} type={'date'} className="mb-[15px]" />
+                    <TextAreaField placeholder={"Your massage"} className={"min-h-[187px]"} />
                     <ButtonFill type="submit" className={"sm:px-7.5 sm:py-2.5"}>Send massage</ButtonFill>
                 </form>
             </div>

@@ -1,8 +1,8 @@
 "use client"
 import { useState } from 'react'
 import { motion } from "framer-motion";
-import InputFiled from '../../ui/inputFiled'
-import TextAreaFiled from '../../ui/textAreaFiled'
+import InputField from '../../ui/inputField'
+import TextAreaField from '../../ui/textAreaField'
 import RightArrow from '@/assets/icons/rightArrow'
 import ButtonOutline from '@/components/ui/buttons/buttonOutline';
 
@@ -45,12 +45,12 @@ const ProductDescription = () => {
                 </div>
                 <div className={`${activeTab === "Reviews" ? "relative opacity-100 translate-y-0 transition-all duration-500" : "absolute top-0 left-0 opacity-0 translate-y-10 transition-all duration-500"} bg-background `}>
                     <form>
-                        <InputFiled placeholderc={"Your Name"} type={"text"} className={"mb-[13px]"} />
+                        <InputField placeholderc={"Your Name"} type={"text"} className={"mb-[13px]"} />
                         <div className='flex sm:flex-row flex-col gap-x-5'>
-                            <InputFiled placeholderc={"Phone Number"} type={"number"} className={"mb-[13px]"} />
-                            <InputFiled placeholderc={"Your Email"} type={"email"} className={"mb-[13px]"} />
+                            <InputField placeholderc={"Phone Number"} type={"number"} className={"mb-[13px]"} />
+                            <InputField placeholderc={"Your Email"} type={"email"} className={"mb-[13px]"} />
                         </div>
-                        <TextAreaFiled placeholder={'Type your massage'} className={"min-h-[223px]"} />
+                        <TextAreaField placeholder={'Type your massage'} className={"min-h-[223px]"} />
                         <div className='flex justify-end'>
                             <ButtonOutline>Send massage <RightArrow height={"22"} width={"35"} /></ButtonOutline>
                         </div>

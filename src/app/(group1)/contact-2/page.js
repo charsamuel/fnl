@@ -1,9 +1,9 @@
 // import RightArrow from '@/assets/icons/rightArrow'
 // import ButtonOutline from '@/components/ui/buttons/buttonOutline'
 // import AddressCard from '@/components/ui/cards/addressCard'
-// import InputFiled from '@/components/ui/inputFiled'
+// import InputField from '@/components/ui/inputField'
 // import SectionTitle from '@/components/ui/sectionTitle'
-// import TextAreaFiled from '@/components/ui/textAreaFiled'
+// import TextAreaField from '@/components/ui/textAreaField'
 // import { addressList } from '@/lib/fackData/addressList'
 // import dynamic from 'next/dynamic'
 
@@ -40,12 +40,12 @@
 //                 <div className='grid lg:grid-cols-2 gap-x-30 gap-y-16 lg:gap-y-0 lg:pt-30 2sm:pt-20 pt-14'>
 //                     <h2 className='[font-size:_clamp(40px,7vw,90px)] font-extrabold leading-120'>Have a Project in your mind?</h2>
 //                     <form>
-//                         <InputFiled placeholderc={"Your Name"} type={"text"} className={"mb-[13px]"} />
+//                         <InputField placeholderc={"Your Name"} type={"text"} className={"mb-[13px]"} />
 //                         <div className='flex sm:flex-row flex-col gap-x-5'>
-//                             <InputFiled placeholderc={"Phone Number"} type={"number"} className={"mb-[13px]"} />
-//                             <InputFiled placeholderc={"Your Email"} type={"email"} className={"mb-[13px]"} />
+//                             <InputField placeholderc={"Phone Number"} type={"number"} className={"mb-[13px]"} />
+//                             <InputField placeholderc={"Your Email"} type={"email"} className={"mb-[13px]"} />
 //                         </div>
-//                         <TextAreaFiled placeholder={'Type your massage'} className={"min-h-[223px] mb-[13px]"} />
+//                         <TextAreaField placeholder={'Type your massage'} className={"min-h-[223px] mb-[13px]"} />
 //                         <div className='flex justify-end'>
 //                             <ButtonOutline>Send massage <RightArrow height={"22"} width={"35"} /></ButtonOutline>
 //                         </div>
