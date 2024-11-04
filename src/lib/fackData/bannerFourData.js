@@ -4,21 +4,21 @@ import hero_3 from "@/assets/images/hero-3.jpg"
 
 export const bannerFourData = [
     {
-        id: 1,
+        id: 60,
         title: "Elegant Design Showcase",
         heading_one: "Elegance",
         heading_two: "Redefined",
         banner_img: hero_4,
     },
     {
-        id: 2,
+        id: 61,
         title: "Sustainable Design Focus",
         heading_one: "Greener",
         heading_two: "Tomorrow",
         banner_img: hero_2,
     },
     {
-        id: 3,
+        id: 62,
         title: "Meet Our Design Team",
         heading_one: "Space",
         heading_two: "Evolution",

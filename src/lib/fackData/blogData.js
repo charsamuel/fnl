@@ -10,7 +10,7 @@ import blog_9 from "@/assets/images/blog-image-9.jpg"
 
 export const blogData = [
     {
-        id:1,
+        id:70,
         thumb:blog_1,
         author:"",
         date:"14 January 24",
@@ -19,7 +19,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:2,
+        id:71,
         thumb:blog_2,
         author:"",
         date:"14 January 24",
@@ -28,7 +28,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:3,
+        id:72,
         thumb:blog_3,
         author:"",
         date:"14 January 24",
@@ -37,7 +37,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:4,
+        id:73,
         thumb:blog_4,
         author:"",
         date:"14 January 24",
@@ -46,7 +46,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:5,
+        id:74,
         thumb:blog_5,
         author:"",
         date:"14 January 24",
@@ -55,7 +55,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:6,
+        id:75,
         thumb:blog_6,
         author:"",
         date:"14 January 24",
@@ -64,7 +64,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:7,
+        id:76,
         thumb:blog_7,
         author:"",
         date:"14 January 24",
@@ -73,7 +73,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:8,
+        id:77,
         thumb:blog_8,
         author:"",
         date:"14 January 24",
@@ -82,7 +82,7 @@ export const blogData = [
         desc:""
     },
     {
-        id:9,
+        id:78,
         thumb:blog_9,
         author:"",
         date:"14 January 24",

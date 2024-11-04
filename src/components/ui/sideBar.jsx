@@ -7,47 +7,47 @@ import Image from 'next/image'
 
 const categoriesList = [
     {
-        id: "1",
+        id: "50",
         categories: "Design Inspiration",
         post: "15"
     },
     {
-        id: "2",
+        id: "51",
         categories: "Room Makeovers",
         post: "7"
     },
     {
-        id: "3",
+        id: "52",
         categories: "Color and Decor",
         post: "8"
     },
     {
-        id: "4",
+        id: "53",
         categories: "Home Improvement",
         post: "20"
     },
     {
-        id: "5",
+        id: "54",
         categories: "Sustainable Design",
         post: "4"
     },
     {
-        id: "6",
+        id: "55",
         categories: "Art and Decor",
         post: "9"
     },
     {
-        id: "7",
+        id: "56",
         categories: "Space Planning ",
         post: "15"
     },
     {
-        id: "8",
+        id: "57",
         categories: "Client Success Stories",
         post: "25"
     },
     {
-        id: "9",
+        id: "58",
         categories: "Design Trends",
         post: "3"
     },

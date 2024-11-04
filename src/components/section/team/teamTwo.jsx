@@ -12,7 +12,7 @@ import TeamCardThree from '../../ui/cards/teamCardThree'
 
 const temaList = [
     {
-        id: 1,
+        id: 30,
         img: team_13,
         link: "/team-single",
         name: "Michael Johnson",
@@ -20,7 +20,7 @@ const temaList = [
         desc: "As the lead designer, Michael brought creativity and innovation to the project. His visionary approach guided the entire design process."
     },
     {
-        id: 2,
+        id: 31,
         img: team_14,
         link: "/team-single",
         name: "Michael Johnson",
@@ -28,7 +28,7 @@ const temaList = [
         desc: "As the lead designer, Michael brought creativity and innovation to the project. His visionary approach guided the entire design process."
     },
     {
-        id: 3,
+        id: 32,
         img: team_15,
         link: "/team-single",
         name: "Michael Johnson",
@@ -36,7 +36,7 @@ const temaList = [
         desc: "As the lead designer, Michael brought creativity and innovation to the project. His visionary approach guided the entire design process."
     },
     {
-        id: 4,
+        id: 33,
         img: team_16,
         link: "/team-single",
         name: "Michael Johnson",
@@ -44,7 +44,7 @@ const temaList = [
         desc: "As the lead designer, Michael brought creativity and innovation to the project. His visionary approach guided the entire design process."
     },
     {
-        id: 5,
+        id: 34,
         img: credit_image_1,
         link: "/team-single",
         name: "Layero Engenharia",
@@ -52,7 +52,7 @@ const temaList = [
         desc: "",
     },
     {
-        id: 6,
+        id: 35,
         img: credit_image_2,
         link: "/team-single",
         name: "Maddison & Walker",

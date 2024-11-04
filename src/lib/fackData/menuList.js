@@ -37,7 +37,7 @@ export const menuList = [
         isDropdown: false
     },
     {
-        id: 2,
+        id: 180,
         name: "Projects",
         path: '/project-archive',
         isMegaMenu: false,

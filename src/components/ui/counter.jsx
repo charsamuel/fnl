@@ -3,22 +3,22 @@ import { cn } from "@/lib/utils"
 import SlotCounter from "react-slot-counter"
 const counterList = [
     {
-        id: 1,
+        id: 40,
         count: "12",
         title: "Years of Experience"
     },
     {
-        id: 2,
+        id: 41,
         count: '182+',
         title: "Projects Completed"
     },
     {
-        id: 3,
+        id: 42,
         count: '425k',
         title: "Square Feet covered"
     },
     {
-        id: 4,
+        id: 43,
         count: '93%',
         title: "Positive Feedbacks"
     },

@@ -30,7 +30,7 @@ export const menuListTwo = [
         ]
     },
     {
-        id: 2,
+        id: 171,
         name: "Projects",
         path: '/project-archive',
         isMegaMenu: false,
@@ -52,7 +52,7 @@ export const menuListTwo = [
                         desc: "Everything from concept to completion"
                     },
                     {
-                        id: 2,
+                        id: 170,
                         name: "Commercial Design",
                         path: "/service-single",
                         desc: "Focuses on optimizing functionality and aesthetics"
@@ -66,7 +66,7 @@ export const menuListTwo = [
                 ]
             },
             {
-                id: 2,
+                id: 169,
                 menus: [
                     {
                         id: 4,
@@ -114,7 +114,7 @@ export const menuListTwo = [
                 path: "/about-us"
             },
             {
-                id: 2,
+                id: 160,
                 name: "Services",
                 path: "/services"
             },

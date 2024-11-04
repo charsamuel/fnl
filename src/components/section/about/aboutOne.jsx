@@ -9,17 +9,17 @@ import SectionSidebarImg from '@/components/ui/sectionSidebarImg'
 
 const aboutList = [
     {
-        id: "01",
+        id: "20",
         item: "Innovation Without Limits",
         item_desc: "We craft solutions that go beyond aesthetics, merging bold ideas with cutting-edge design to create memorable experiences."
     },
     {
-        id: "02",
+        id: "21",
         item: "Driven by Vision",
         item_desc: "Our team brings visionary thinking to every project, transforming concepts into dynamic designs that engage and inspire."
     },
     {
-        id: "03",
+        id: "22",
         item: "Recognized Excellence",
         item_desc: "Celebrated in the industry, our work reflects a commitment to creativity, precision, and a passion for impactful design."
     },

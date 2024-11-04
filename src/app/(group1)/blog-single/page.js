@@ -21,22 +21,22 @@ export const metadata = {
 const BlogSingle = () => {
     const tagList = [
         {
-            id: "1",
+            id: "11",
             tag: "Art and Decor",
             link: ""
         },
         {
-            id: "2",
+            id: "12",
             tag: "Modern Living",
             link: ""
         },
         {
-            id: "3",
+            id: "13",
             tag: "Renovations",
             link: ""
         },
         {
-            id: "4",
+            id: "14",
             tag: "Vintage Style",
             link: ""
         },

@@ -20,22 +20,22 @@ export const teamData = [
         position: "Interior Alchemist",
         social_link: [
             {
-                id: 1,
+                id: 98,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 99,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 100,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 101,
                 link: "TW",
                 media: "LI"
             },
@@ -43,31 +43,31 @@ export const teamData = [
         ],
         portfolio: [
             {
-                id: 1,
+                id: 102,
                 img: portfolio_1,
                 project_name: "MFA Lakeside Brielle",
                 link:""
             },
             {
-                id: 2,
+                id: 103,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
             },
             {
-                id: 3,
+                id: 104,
                 img: portfolio_3,
                 project_name: "La Fuente Condo",
                 link:""
             },
             {
-                id: 4,
+                id: 105,
                 img: portfolio_4,
                 project_name: "Pixel House",
                 link:""
             },
             {
-                id: 5,
+                id: 106,
                 img: portfolio_5,
                 project_name: "La Fuente Condo",
                 link:""
@@ -82,22 +82,22 @@ export const teamData = [
         position: "Chief Design Orchestrator",
         social_link: [
             {
-                id: 1,
+                id: 107,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 108,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 109,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 110,
                 link: "TW",
                 media: "LI"
             },
@@ -105,31 +105,31 @@ export const teamData = [
         ],
         portfolio: [
             {
-                id: 1,
+                id: 111,
                 img: portfolio_1,
                 project_name: "MFA Lakeside Brielle",
                 link:""
             },
             {
-                id: 2,
+                id: 112,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
             },
             {
-                id: 3,
+                id: 113,
                 img: portfolio_3,
                 project_name: "La Fuente Condo",
                 link:""
             },
             {
-                id: 4,
+                id: 114,
                 img: portfolio_4,
                 project_name: "Pixel House",
                 link:""
             },
             {
-                id: 5,
+                id: 115,
                 img: portfolio_5,
                 project_name: "La Fuente Condo",
                 link:""
@@ -144,22 +144,22 @@ export const teamData = [
         position: "Interior Alchemist",
         social_link: [
             {
-                id: 1,
+                id: 116,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 117,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 118,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 119,
                 link: "TW",
                 media: "LI"
             },
@@ -167,31 +167,31 @@ export const teamData = [
         ],
         portfolio: [
             {
-                id: 1,
+                id: 120,
                 img: portfolio_1,
                 project_name: "MFA Lakeside Brielle",
                 link:""
             },
             {
-                id: 2,
+                id: 121,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
             },
             {
-                id: 3,
+                id: 122,
                 img: portfolio_3,
                 project_name: "La Fuente Condo",
                 link:""
             },
             {
-                id: 4,
+                id: 123,
                 img: portfolio_4,
                 project_name: "Pixel House",
                 link:""
             },
             {
-                id: 5,
+                id: 124,
                 img: portfolio_5,
                 project_name: "La Fuente Condo",
                 link:""
@@ -200,28 +200,28 @@ export const teamData = [
         ]
     },
     {
-        id: 4,
+        id: 125,
         img: team_9,
         name: "Victoria Savano",
         position: "Interior Alchemist",
         social_link: [
             {
-                id: 1,
+                id: 126,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 127,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 128,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 129,
                 link: "TW",
                 media: "LI"
             },
@@ -229,31 +229,31 @@ export const teamData = [
         ],
         portfolio: [
             {
-                id: 1,
+                id: 130,
                 img: portfolio_1,
                 project_name: "MFA Lakeside Brielle",
                 link:""
             },
             {
-                id: 2,
+                id: 131,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
             },
             {
-                id: 3,
+                id: 132,
                 img: portfolio_3,
                 project_name: "La Fuente Condo",
                 link:""
             },
             {
-                id: 4,
+                id: 133,
                 img: portfolio_4,
                 project_name: "Pixel House",
                 link:""
             },
             {
-                id: 5,
+                id: 134,
                 img: portfolio_5,
                 project_name: "La Fuente Condo",
                 link:""
@@ -262,28 +262,28 @@ export const teamData = [
         ]
     },
     {
-        id: 5,
+        id: 135,
         img: team_4,
         name: "Russell Otten",
         position: "Interior Alchemist",
         social_link: [
             {
-                id: 1,
+                id: 136,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 137,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 138,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 139,
                 link: "TW",
                 media: "LI"
             },
@@ -291,31 +291,31 @@ export const teamData = [
         ],
         portfolio: [
             {
-                id: 1,
+                id: 140,
                 img: portfolio_1,
                 project_name: "MFA Lakeside Brielle",
                 link:""
             },
             {
-                id: 2,
+                id: 141,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
             },
             {
-                id: 3,
+                id: 142,
                 img: portfolio_3,
                 project_name: "La Fuente Condo",
                 link:""
             },
             {
-                id: 4,
+                id: 143,
                 img: portfolio_4,
                 project_name: "Pixel House",
                 link:""
             },
             {
-                id: 5,
+                id: 144,
                 img: portfolio_5,
                 project_name: "La Fuente Condo",
                 link:""
@@ -324,28 +324,28 @@ export const teamData = [
         ]
     },
     {
-        id: 6,
+        id: 145,
         img: team_5,
         name: "Russell Otten",
         position: "Interior Alchemist",
         social_link: [
             {
-                id: 1,
+                id: 146,
                 link: "",
                 media: "FB"
             },
             {
-                id: 2,
+                id: 147,
                 link: "",
                 media: "IN"
             },
             {
-                id: 3,
+                id: 148,
                 link: "",
                 media: "TW"
             },
             {
-                id: 4,
+                id: 149,
                 link: "TW",
                 media: "LI"
             },
@@ -359,7 +359,7 @@ export const teamData = [
                 link:""
             },
             {
-                id: 2,
+                id: 150,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
@@ -397,7 +397,7 @@ export const teamData = [
                 media: "FB"
             },
             {
-                id: 2,
+                id: 151,
                 link: "",
                 media: "IN"
             },
@@ -421,7 +421,7 @@ export const teamData = [
                 link:""
             },
             {
-                id: 2,
+                id: 152,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
@@ -459,7 +459,7 @@ export const teamData = [
                 media: "FB"
             },
             {
-                id: 2,
+                id: 153,
                 link: "",
                 media: "IN"
             },
@@ -483,7 +483,7 @@ export const teamData = [
                 link:""
             },
             {
-                id: 2,
+                id: 154,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
@@ -521,7 +521,7 @@ export const teamData = [
                 media: "FB"
             },
             {
-                id: 2,
+                id: 155,
                 link: "",
                 media: "IN"
             },
@@ -545,7 +545,7 @@ export const teamData = [
                 link:""
             },
             {
-                id: 2,
+                id: 156,
                 img: portfolio_2,
                 project_name: "Bovio House",
                 link:""
