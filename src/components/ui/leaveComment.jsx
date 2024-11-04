@@ -1,6 +1,6 @@
 import React from 'react'
 import TextAreaField from './textAreaField'
-import InputField from './inputFiled'
+import InputField from './inputField'
 import ButtonFill from './buttons/buttonFill'
 import RightArrow from '@/assets/icons/rightArrow'
 

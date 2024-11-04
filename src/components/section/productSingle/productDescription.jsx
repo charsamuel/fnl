@@ -1,8 +1,8 @@
 "use client"
 import { useState } from 'react'
 import { motion } from "framer-motion";
-import InputField from '../../ui/inputField'
-import TextAreaField from '../../ui/textAreaField'
+import InputField from '../../ui/InputField'
+import TextAreaField from '../../ui/TextAreaField'
 import RightArrow from '@/assets/icons/rightArrow'
 import ButtonOutline from '@/components/ui/buttons/buttonOutline';
 
