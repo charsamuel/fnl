@@ -6,8 +6,8 @@ import Image from 'next/image';
 import AddressCard from '@/components/ui/cards/addressCard';
 import SectionTitle from '@/components/ui/sectionTitle';
 import { addressList } from '@/lib/fackData/addressList';
-import InputField from '@/components/ui/InputField';
-import TextAreaField from '@/components/ui/TextAreaField'
+import InputField from '@/components/ui/inputField';
+import TextAreaField from '@/components/ui/textAreaField'
 import RightArrow from '@/assets/icons/rightArrow';
 import from_img from "@/assets/images/contact-image.jpg";
 import Feedback from '@/components/section/feedback';
