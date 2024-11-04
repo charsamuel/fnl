@@ -27,9 +27,13 @@ function SetViewOnClick({ mapDirection }) {
   
     return null;
 }
-
 const LeafletMap = () => {
     const { mapDirection } = useContext(MapContext);
+
+    if (!mapDirection) {
+        return <p>Loading map...</p>; // Fallback while loading map direction
+    }
+
     return (
         <MapContainer center={mapDirection} zoom={13} scrollWheelZoom={true} style={{ height: "392px" }}>
             <TileLayer
@@ -41,5 +45,20 @@ const LeafletMap = () => {
         </MapContainer>
     );
 };
+
+
+// const LeafletMap = () => {
+//     const { mapDirection } = useContext(MapContext);
+//     return (
+//         <MapContainer center={mapDirection} zoom={13} scrollWheelZoom={true} style={{ height: "392px" }}>
+//             <TileLayer
+//                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">fnl</a> contributors'
+//                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+//             />
+//             <SetViewOnClick mapDirection={mapDirection} />
+//             <MultipleMarkers />
+//         </MapContainer>
+//     );
+// };
 
 export default LeafletMap;
